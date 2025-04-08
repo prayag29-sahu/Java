@@ -1,0 +1,8 @@
+Topics Covered:
+-	Java Introduction & First Program
+-	Data Types & Variables
+-	Type Casting (Widening & Narrowing)
+-	Output-Based Questions
+-	ASCII & Swapping Logic
+-	Type Promotion
+-	Simple Expressions
