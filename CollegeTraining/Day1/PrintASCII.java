@@ -7,7 +7,7 @@ public class PrintASCII {
         System.out.print("Enter  any Character : ");
         char ch = sc.next().charAt(0);
         System.out.println((int)ch);
-
+        sc.close();
     }
     
 }
