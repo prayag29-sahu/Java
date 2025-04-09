@@ -12,3 +12,10 @@ public class Operators {
     }
     
 }
+/*
+ * o/p (true
+        true
+        false
+        true
+        4)
+ */
