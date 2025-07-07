@@ -10,6 +10,6 @@ public class greaternum {
         } else {
             System.out.println("a is equal to b");
         }
-        // a is greater than b
+        // a is greater than b 
     }
 }
