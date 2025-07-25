@@ -7,8 +7,8 @@ public class Areacalcu {
         double l = sc.nextDouble();
         double b = sc.nextDouble();
         double A=l*b;
-        System.out.println("Area : "+A+" cm²");
-
+        System.out.println("Area : " + A + " cm²");
+        sc.close();
     }   
 }
 /*
